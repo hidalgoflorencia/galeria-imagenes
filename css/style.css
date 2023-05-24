@@ -333,40 +333,40 @@ label:hover{
 }
 
 .uno::before {
-    content: "Background lila";
+    content: "Baby Yoda";
 }
 .dos::before {
-    content: "Gato Amarillo";
+    content: "Eva 01";
 }
 .tres::before {
-    content: "Jarron marrón";
+    content: "Ayanami Rei";
 }
 .cuatro::before {
-    content: "Green Background";
+    content: "Darth Vader";
 }
 .cinco::before {
-    content: "Todo Naranja";
+    content: "Jabonera Sustentable";
 }
 .seis::before {
-    content: "Latas Amarillas";
+    content: "Holder para Cascos";
 }
 .siete::before {
-    content: "Conejo blanco";
+    content: "Runa Berserk";
 }
 .ocho::before {
-    content: "White Background";
+    content: "Kaonashi";
 }
 .nueve::before {
-    content: "Yellow Background";
+    content: "Master Chief Keycap";
 }
 .diez::before {
-    content: "Gorra Pink";
+    content: "Nerv Keycap";
 }
 .once::before {
-    content: "Jarrón blanco";
+    content: "Dragon Articulable";
 }
 .doce::before {
-    content: "Background lila";
+    content: "Doom Slayer";
 }
 
 .pic::after{
